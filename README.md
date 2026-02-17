@@ -376,9 +376,7 @@ plt.ylabel("True Label")
 plt.show()
 
 ```
-<img width="431" height="336" alt="Screenshot 2026-02-17 at 3 14 52 PM" src="https://github.com/user-attachments/assets/d7e823e3-d614-4a99-b891-e71092a38a25" />
-
-<img width="662" height="502" alt="Screenshot 2026-02-17 at 3 13 04 PM" src="https://github.com/user-attachments/assets/b2a2bc57-e7cf-4e64-b582-e86dcad95614" />
+<img width="668" height="504" alt="Screenshot 2026-02-17 at 3 17 45 PM" src="https://github.com/user-attachments/assets/2062402a-af61-4770-be1f-ab3ed7a6b652" />
 
 
     
@@ -474,10 +472,10 @@ plt.ylabel("True Label")
 plt.show()
 
 ```
+<img width="658" height="504" alt="Screenshot 2026-02-17 at 3 18 46 PM" src="https://github.com/user-attachments/assets/f6c775e6-135a-4ce7-8b76-252602d4da98" />
 
 
     
-![png](output_17_0.png)
     
 
 
@@ -1834,8 +1832,8 @@ dend = sch.dendrogram(sch.linkage(vecs.toarray(), method='ward'))
 plt.show()
 ```
 
+<img width="1133" height="218" alt="Screenshot 2026-02-17 at 3 19 44 PM" src="https://github.com/user-attachments/assets/237e2d9e-ad5e-494d-834a-42316fc0b6c1" />
 
     
-![png](output_65_0.png)
     
 
