@@ -376,6 +376,8 @@ plt.ylabel("True Label")
 plt.show()
 
 ```
+<img width="431" height="336" alt="Screenshot 2026-02-17 at 3 14 52 PM" src="https://github.com/user-attachments/assets/d7e823e3-d614-4a99-b891-e71092a38a25" />
+
 <img width="662" height="502" alt="Screenshot 2026-02-17 at 3 13 04 PM" src="https://github.com/user-attachments/assets/b2a2bc57-e7cf-4e64-b582-e86dcad95614" />
 
 
