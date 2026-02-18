@@ -1091,6 +1091,9 @@ plt.plot(krange, wcss)
     [<matplotlib.lines.Line2D at 0x7cf47ae53da0>]
 
 
+<img width="571" height="397" alt="Screenshot 2026-02-17 at 8 50 53 PM" src="https://github.com/user-attachments/assets/eefd50fd-f1d9-4929-aff7-6898ca69940d" />
+
+
 
 
     
