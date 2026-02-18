@@ -1,5 +1,10 @@
-Project Title
+Project Title:
 Text Classification Pipeline
+
+Overview:
+This project builds a machine learning pipeline to classify text documents using natural language processing techniques. The notebook walks through data preprocessing, feature engineering with TF-IDF, model training, and performance evaluation. Multiple models are tested and compared to determine which approach performs best for text classification.
+
+The goal is to demonstrate an end-to-end workflow for transforming raw text into structured features and using supervised learning to generate accurate predictions.
 
 ```python
 !pip install scipy
