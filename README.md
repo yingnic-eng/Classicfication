@@ -1097,7 +1097,6 @@ plt.plot(krange, wcss)
 
 
     
-![png](output_34_2.png)
     
 
 
@@ -1115,17 +1114,16 @@ plt.hist(clusts)
 
 
 
-    (array([1521., 1014., 1437., 2538.,    0., 1355., 1124., 1471.,  303.,
-             551.]),
+    (array([1463., 2511., 1482., 1407.,    0., 305., 1461., 566.,  1107.,
+             1012.]),
      array([0. , 0.8, 1.6, 2.4, 3.2, 4. , 4.8, 5.6, 6.4, 7.2, 8. ]),
      <BarContainer object of 10 artists>)
 
 
-
+<img width="511" height="361" alt="Screenshot 2026-02-17 at 8 53 19 PM" src="https://github.com/user-attachments/assets/2ad06dc6-50b9-4e5e-8869-dd9d55e75f9f" />
 
     
-![png](output_36_1.png)
-    
+
 
 
 
@@ -1154,10 +1152,8 @@ print('Purity:', purity_score(clusts, train.target))
 
     Purity: 0.3402863708679512
 
+<img width="558" height="439" alt="Screenshot 2026-02-17 at 8 54 18 PM" src="https://github.com/user-attachments/assets/6f88fd6c-7d02-4f9f-9948-2e4f47cd8e0c" />
 
-
-    
-![png](output_38_1.png)
     
 
 
@@ -1657,16 +1653,16 @@ plt.hist(clusts_0)
 
 
 
-    (array([ 887.,    0.,    0.,    0.,    0., 1178.,    0.,    0.,    0.,
-             483.]),
+    (array([ 470.,    0.,    0.,    0.,    0., 462.,    0.,    0.,    0.,
+             531.]),
      array([0. , 0.2, 0.4, 0.6, 0.8, 1. , 1.2, 1.4, 1.6, 1.8, 2. ]),
      <BarContainer object of 10 artists>)
 
+<img width="456" height="320" alt="Screenshot 2026-02-17 at 8 55 39 PM" src="https://github.com/user-attachments/assets/34709859-f35f-4256-a00b-54006c44fcad" />
 
 
 
-    
-![png](output_53_1.png)
+
     
 
 
@@ -1678,10 +1674,11 @@ print('Purity:', purity_score(clusts_0, cl0_target))
 
     Purity: 0.3626373626373626
 
+<img width="538" height="420" alt="Screenshot 2026-02-17 at 8 56 59 PM" src="https://github.com/user-attachments/assets/f873ffb8-ea62-4237-8b4c-73a7f8320518" />
+
 
 
     
-![png](output_54_1.png)
     
 
 
@@ -1742,15 +1739,13 @@ plt.hist(clusts_8)
 
 
 
-    (array([354.,   0.,   0.,   0.,   0., 370.,   0.,   0.,   0., 838.]),
+    (array([199.,   0.,   0.,   0.,   0., 374.,   0.,   0.,   0., 439.]),
      array([0. , 0.2, 0.4, 0.6, 0.8, 1. , 1.2, 1.4, 1.6, 1.8, 2. ]),
      <BarContainer object of 10 artists>)
 
 
+<img width="497" height="352" alt="Screenshot 2026-02-17 at 8 57 38 PM" src="https://github.com/user-attachments/assets/f70b5479-c390-43cb-acca-f4e94c95fda4" />
 
-
-    
-![png](output_58_1.png)
     
 
 
@@ -1762,10 +1757,8 @@ print('Purity:', purity_score(clusts_8, cl8_target))
 
     Purity: 0.5691421254801536
 
+<img width="475" height="350" alt="Screenshot 2026-02-17 at 8 58 35 PM" src="https://github.com/user-attachments/assets/b1d135df-f793-4c60-8dae-957fc61fc59b" />
 
-
-    
-![png](output_59_1.png)
     
 
 
